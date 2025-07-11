@@ -38,7 +38,7 @@ This project presents a comprehensive data analysis of a supermarket sales datas
 
 ## 📎 File
 
-- `supermarket_sales_analysis.xlsx` – contains the full analysis, pivot tables, charts, and insights.
+- https://github.com/ROSHANFAREED/SALES-DATA--ANALYSIS/blob/main/SUPER%20MARKET%20SALES.xlsx – contains the full analysis, pivot tables, charts, and insights.
 
 ---
 
