@@ -18,6 +18,7 @@ This project presents a comprehensive data analysis of a supermarket sales datas
   - Bar Charts
   - Insights Sheet
   - Conditional Formatting
+    
 
 ## 📊 Key Insights
 
@@ -40,7 +41,12 @@ This project presents a comprehensive data analysis of a supermarket sales datas
 
 - https://github.com/ROSHANFAREED/SALES-DATA--ANALYSIS/blob/main/SUPER%20MARKET%20SALES.xlsx – contains the full analysis, pivot tables, charts, and insights.
 
----
+## 📸 Excel Dashboard Preview
+
+Here’s a snapshot of the interactive Excel dashboard created using Pivot Tables and Charts:
+
+![Dashboard Screenshot](https://github.com/ROSHANFAREED/SALES-DATA--ANALYSIS/blob/main/dashboard.png.png?raw=true)
+
 
 ## 🔗 Connect with Me
 
