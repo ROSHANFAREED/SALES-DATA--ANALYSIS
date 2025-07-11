@@ -46,5 +46,6 @@ This project presents a comprehensive data analysis of a supermarket sales datas
 
 👤 **Roshan Fareed**  
 🎓 Aspiring Data Analyst | Mechanical Engineer turned Analyst  
+📧 roshanfareed53@Gmail.com
 
 
